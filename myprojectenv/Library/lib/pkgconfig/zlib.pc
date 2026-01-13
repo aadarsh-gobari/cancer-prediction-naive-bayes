@@ -1,0 +1,13 @@
+prefix=C:/cancer-prediction-naive-bayes/myprojectenv/Library
+exec_prefix=C:/cancer-prediction-naive-bayes/myprojectenv/Library
+libdir=C:/cancer-prediction-naive-bayes/myprojectenv/Library/lib
+sharedlibdir=C:/cancer-prediction-naive-bayes/myprojectenv/Library/lib
+includedir=C:/cancer-prediction-naive-bayes/myprojectenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
