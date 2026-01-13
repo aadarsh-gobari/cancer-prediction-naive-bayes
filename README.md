@@ -18,3 +18,8 @@ The model is built using the Naïve Bayes algorithm on the Breast Cancer dataset
 - Feature engineering
 - Model training using Naïve Bayes
 - Model evaluation and visualization
+
+## Current Status
+- Data loading and exploratory data analysis (EDA)
+- Feature engineering and scaling
+- Train-test split completed
