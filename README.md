@@ -27,3 +27,11 @@ The model is built using the Naïve Bayes algorithm on the Breast Cancer dataset
 ## Model Training
 - Trained a Gaussian Naïve Bayes classifier
 - Model saved using joblib for reuse
+
+
+## Model Evaluation
+- Confusion Matrix
+- Classification Report (Precision, Recall, F1-score)
+- ROC-AUC Curve
+- Model performance visualized and interpreted
+
